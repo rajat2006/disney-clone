@@ -32,7 +32,7 @@ const Content = styled.div`
     box-sizing: border-box;
     display: flex;
     justify-content: center;
-    alight-items: center;
+    align-items: center;
     flex-direction: column;
     padding: 80px 40px;
     height: 100%;
@@ -52,7 +52,7 @@ const BgImage = styled.div`
 `;
 
 const CTA = styled.div`
-    margin-bottom 2vw;
+    margin-bottom: 2vw;
     max-width: 650px;
     flex-wrap: wrap;
     display: flex;
